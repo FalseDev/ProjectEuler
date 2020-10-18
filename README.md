@@ -1,0 +1,1 @@
+These are my solutions to the problems in the Euler Project written in java
